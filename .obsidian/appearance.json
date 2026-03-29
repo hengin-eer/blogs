@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Catppuccin",
+  "theme": "moonstone",
+  "textFontFamily": "Noto Sans JP",
+  "interfaceFontFamily": "Noto Sans JP",
+  "monospaceFontFamily": "FiraCode Nerd Font",
+  "baseFontSize": 18,
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "showRibbon": true
+}

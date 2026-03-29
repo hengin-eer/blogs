@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "70aede223bc068f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "69589c6694746113",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fb85cd4130c0fd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "geekcamp-recomend-dev-env.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "geekcamp-recomend-dev-env"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe898b2dd25d39df",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7860cd386b3b515",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "934a4d4671dd30b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "84e8b862c07a0216",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "fe88f1732ae4aa38",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a536e627ea7cbe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e144c31bcb1f613",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0d57ff6899c8d58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "geekcamp-recomend-dev-env.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "geekcamp-recomend-dev-envへのバックリンク"
+            }
+          },
+          {
+            "id": "1c22593d0255edbf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "geekcamp-recomend-dev-env.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "geekcamp-recomend-dev-envからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "c6d45f7fb615502f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "002098d48eae1785",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "c3ddb66c536180c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "geekcamp-recomend-dev-env.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "geekcamp-recomend-dev-envのアウトライン"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": true,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": true,
+      "bases:新規ベースを作成": false,
+      "command-palette:コマンドパレットを開く": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "audio-recorder:録音の開始/停止": false,
+      "random-note:ランダムノートを開く": false
+    }
+  },
+  "active": "934a4d4671dd30b7",
+  "lastOpenFiles": [
+    "create-blog-with-gatsby-cover.png",
+    "create-blog-with-gatsby.md",
+    "hacku-kosen-2025.md",
+    "my-first-hackathon-in-giiku-camp-hackathon-kyoto.md",
+    "look-back-on-2025.md",
+    "poem_20241020183753.md",
+    "reading-fluent-react.md",
+    "research-nereistoxin-poison.md",
+    "unprecedented-rolling-pin-boom.md",
+    "tutorial-browser-magnetic-sensor-cover.png",
+    "tutorial-browser-magnetic-sensor.md",
+    "transfer-experience.md",
+    "tim-bird.png",
+    "geekcamp-recomend-dev-env.md"
+  ]
+}

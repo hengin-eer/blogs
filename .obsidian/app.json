@@ -1,0 +1,14 @@
+{
+  "showInlineTitle": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "livePreview": false,
+  "strictLineBreaks": true,
+  "propertiesInDocument": "source",
+  "foldHeading": true,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "vimMode": true
+}
