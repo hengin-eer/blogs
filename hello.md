@@ -1,5 +1,5 @@
 ---
-cover: ./hello-01.jpg
+cover: ./images/hello/banzai.jpg
 title: テスト記事
 author: timdaik
 updatedAt: 1970-01-01

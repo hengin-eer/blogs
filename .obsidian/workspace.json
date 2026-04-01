@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello.md",
-                "mode": "source",
+                "file": "hello-world-2026.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "hello"
+              "title": "hello-world-2026"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ポエム  ",
+                "query": "hello",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hello.md",
+                "file": "hello-world-2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "helloへのバックリンク"
+              "title": "hello-world-2026へのバックリンク"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hello.md",
+                "file": "hello-world-2026.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "helloからのアウトゴーイングリンク"
+              "title": "hello-world-2026からのアウトゴーイングリンク"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hello.md",
+                "file": "hello-world-2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "helloのアウトライン"
+              "title": "hello-world-2026のアウトライン"
             }
           }
         ],
@@ -186,11 +185,11 @@
       "random-note:ランダムノートを開く": false
     }
   },
-  "active": "84e8b862c07a0216",
+  "active": "c8c5a4c2616f94b6",
   "lastOpenFiles": [
+    "hello.md",
     "hacku-kosen-2025.md",
     "cm-with-astro-obsidian-git-submodules.md",
-    "hello.md",
     "images/hello/banzai.jpg",
     "images/hello",
     "unprecedented-rolling-pin-boom.md",
