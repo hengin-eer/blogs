@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "69589c6694746113",
+        "id": "d88b59cb3309bf6c",
         "type": "tabs",
         "children": [
           {
-            "id": "9fb85cd4130c0fd8",
+            "id": "c8c5a4c2616f94b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geekcamp-recomend-dev-env.md",
+                "file": "cm-with-astro-obsidian-git-submodules.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "geekcamp-recomend-dev-env"
-            }
-          },
-          {
-            "id": "9d1fd9b46b8b8418",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "リリースノート 1.12.7"
+              "title": "cm-with-astro-obsidian-git-submodules"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "cm-with-astro-obsidian-git-submodules.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "cm-with-astro-obsidian-git-submodulesのアウトライン"
             }
           }
         ],
@@ -197,8 +185,12 @@
       "random-note:ランダムノートを開く": false
     }
   },
-  "active": "9d1fd9b46b8b8418",
+  "active": "c8c5a4c2616f94b6",
   "lastOpenFiles": [
+    "astro-v4-to-v5-change-points-in-content-collections.md",
+    "cm-with-astro-obsidian-git-submodules.md",
+    "hello.md",
+    "geekcamp-recomend-dev-env.md",
     "create-blog-with-gatsby-cover.png",
     "create-blog-with-gatsby.md",
     "hacku-kosen-2025.md",
@@ -211,7 +203,6 @@
     "tutorial-browser-magnetic-sensor-cover.png",
     "tutorial-browser-magnetic-sensor.md",
     "transfer-experience.md",
-    "tim-bird.png",
-    "geekcamp-recomend-dev-env.md"
+    "tim-bird.png"
   ]
 }
