@@ -1,9 +1,10 @@
 ---
-cover: "./create-blog-with-gatsby-cover.png"
-title: "Gatsbyでブログを作成しました！"
+cover: ./create-blog-with-gatsby-cover.png
+title: Gatsbyでブログを作成しました！
 author: timdaik
-updatedAt: "2023-05-04"
-tag: ["ニュース"]
+updatedAt: 2023-05-04
+tag:
+  - ニュース
 ---
 # 個人ブログをGatsbyとContentfulで作成した
 

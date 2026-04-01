@@ -1,9 +1,11 @@
 ---
-cover: "./my-first-hackathon-in-giiku-camp-hackathon-kyoto-cover.png"
-title: "はじめてのはっかそん - 技育CAMPハッカソンに参戦してきた！"
+cover: ./my-first-hackathon-in-giiku-camp-hackathon-kyoto-cover.png
+title: はじめてのはっかそん - 技育CAMPハッカソンに参戦してきた！
 author: timdaik
-updatedAt: "2023-05-09"
-tag: ["イベント", "振り返り"]
+updatedAt: 2023-05-09
+tag:
+  - イベント
+  - 振り返り
 ---
 # はじめてのはっかそん - 技育CAMPハッカソンに参戦してきた！
 

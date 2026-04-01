@@ -1,9 +1,10 @@
 ---
-cover: "./tutorial-browser-magnetic-sensor-cover.png"
-title: "いつ使うのか⁉ブラウザの磁気センサーでコンパス作ってみた"
+cover: ./tutorial-browser-magnetic-sensor-cover.png
+title: いつ使うのか⁉ブラウザの磁気センサーでコンパス作ってみた
 author: timdaik
-updatedAt: "2023-10-19"
-tag: ["Tech"]
+updatedAt: 2023-10-19
+tag:
+  - Tech
 ---
 ## ブラウザーの磁気センサーご存じですか？
 どうも[@timtim_tech](https://x.com/timtim_tech)です

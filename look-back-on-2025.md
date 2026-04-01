@@ -1,9 +1,11 @@
 ---
-cover: "./no-cover.png"
-title: "2025年を振り返って"
+cover: ./no-cover.png
+title: 2025年を振り返って
 author: timdaik
-updatedAt: "2025-12-31"
-tag: ["振り返り", "年の総括"]
+updatedAt: 2025-12-31
+tag:
+  - 振り返り
+  - 年の総括
 draft: true
 ---
 <!-- createdAt: 2025-12-30を追加したい -->

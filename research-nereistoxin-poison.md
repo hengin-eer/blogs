@@ -1,9 +1,10 @@
 ---
-cover: "./research-nereistoxin-poison-cover.png"
-title: "深夜テンションでイソメ毒のネライストキシンの論文を読んだ"
+cover: ./research-nereistoxin-poison-cover.png
+title: 深夜テンションでイソメ毒のネライストキシンの論文を読んだ
 author: timdaik
-updatedAt: "2024-02-10"
-tag: ["教養"]
+updatedAt: 2024-02-10
+tag:
+  - 教養
 ---
 どうも[Tim](https://x.com/tim_daik)です！イソメ毒のネライストキシンについてチョコっと調べてみたので記事を残します。
 ## 抄録

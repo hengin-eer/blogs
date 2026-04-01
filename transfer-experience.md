@@ -1,9 +1,11 @@
 ---
-cover: "./images/transfer-experience/aburasoba-noodle.png"
-title: "2025年度 長岡技術科学大学 編入体験記"
+cover: ./images/transfer-experience/aburasoba-noodle.png
+title: 2025年度 長岡技術科学大学 編入体験記
 author: timdaik
-updatedAt: "2025-12-31"
-tag: ["振り返り", "NUT"]
+updatedAt: 2025-12-31
+tag:
+  - 振り返り
+  - NUT
 ---
 サムネは技科大名物の油そば。
 学食のメニューで一番人気らしく、学外から地域の人がわざわざ食べに来るほどだ。

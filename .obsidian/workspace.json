@@ -74,7 +74,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geekcamp-recomend-dev-env.md",
+                "file": "cm-with-astro-obsidian-git-submodules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "geekcamp-recomend-dev-envへのバックリンク"
+              "title": "cm-with-astro-obsidian-git-submodulesへのバックリンク"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "geekcamp-recomend-dev-env.md",
+                "file": "cm-with-astro-obsidian-git-submodules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "geekcamp-recomend-dev-envからのアウトゴーイングリンク"
+              "title": "cm-with-astro-obsidian-git-submodulesからのアウトゴーイングリンク"
             }
           },
           {
@@ -166,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -187,22 +188,38 @@
   },
   "active": "c8c5a4c2616f94b6",
   "lastOpenFiles": [
-    "astro-v4-to-v5-change-points-in-content-collections.md",
-    "cm-with-astro-obsidian-git-submodules.md",
     "hello.md",
-    "geekcamp-recomend-dev-env.md",
-    "create-blog-with-gatsby-cover.png",
-    "create-blog-with-gatsby.md",
-    "hacku-kosen-2025.md",
-    "my-first-hackathon-in-giiku-camp-hackathon-kyoto.md",
-    "look-back-on-2025.md",
-    "poem_20241020183753.md",
-    "reading-fluent-react.md",
-    "research-nereistoxin-poison.md",
+    "images/hello/banzai.jpg",
+    "images/hello",
     "unprecedented-rolling-pin-boom.md",
-    "tutorial-browser-magnetic-sensor-cover.png",
+    "images/hello/tim-bird.png",
+    "images/unprecedented-rolling-pin-boom/4.png",
+    "images/unprecedented-rolling-pin-boom/8.png",
+    "images/unprecedented-rolling-pin-boom/7.png",
+    "images/unprecedented-rolling-pin-boom/6.png",
+    "images/unprecedented-rolling-pin-boom/5.png",
+    "images/unprecedented-rolling-pin-boom/3.png",
+    "images/unprecedented-rolling-pin-boom/2.png",
+    "images/unprecedented-rolling-pin-boom",
+    "images/unprecedented-rolling-pin-boom/1.png",
     "tutorial-browser-magnetic-sensor.md",
     "transfer-experience.md",
-    "tim-bird.png"
+    "taiwan-kensyu-travel-1.md",
+    "tailwindcss-v4-migration-guide.md",
+    "simon-singh-the-code-book-1.md",
+    "tailwindcss-v4-css-cascade-layers-trap.md",
+    "reading-fluent-react.md",
+    "research-nereistoxin-poison.md",
+    "present-heyagram-in-geekcaravan-osaka.md",
+    "poem_20241020183753.md",
+    "my-first-hackathon-in-giiku-camp-hackathon-kyoto.md",
+    "look-back-on-2025.md",
+    "astro-v4-to-v5-change-points-in-content-collections.md",
+    "cm-with-astro-obsidian-git-submodules.md",
+    "create-blog-with-gatsby.md",
+    "geekcamp-recomend-dev-env.md",
+    "hacku-kosen-2025.md",
+    "hello-world-2026.md",
+    "look-back-on-2023.md"
   ]
 }

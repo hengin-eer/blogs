@@ -1,9 +1,10 @@
 ---
-cover: "./images/simon-singh-the-code-book-1/book-cover.png"
-title: "サイモン・シン 著「暗号解読」 読書感想文(上)"
+cover: ./images/simon-singh-the-code-book-1/book-cover.png
+title: サイモン・シン 著「暗号解読」 読書感想文(上)
 author: timdaik
-updatedAt: "2025-05-17"
-tag: ["読書"]
+updatedAt: 2025-05-17
+tag:
+  - 読書
 ---
 ## 最も魅力的な学問
 

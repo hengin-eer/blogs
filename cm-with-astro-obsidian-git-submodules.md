@@ -102,10 +102,10 @@ Actionsの設定ファイルを張る
 
 ### Astro, Obsidianの連携
 - [AstroとObsidianでブログを作成しました | orbit.supply](https://orbit.supply/note/py647x8n)
-- [ObsidianをCMSにしたら、思ったより本格的だった話 #cloudflare - Qiita](https://qiita.com/nasubi_dev/items/2237101b170f7327e4a0)
+- [ObsidianをCMSにしたら、思ったより本格的だった話 - Qiita](https://qiita.com/nasubi_dev/items/2237101b170f7327e4a0)
 
 ### Git Submodules
-- [Git submodule の基礎 #AdventCalendar - Qiita](https://qiita.com/sotarok/items/0d525e568a6088f6f6bb)
+- [Git submodule の基礎 - Qiita](https://qiita.com/sotarok/items/0d525e568a6088f6f6bb)
 - [git submodule はトモダチ！怖くないよ！ （チートシート付き） - エムスリーテックブログ](https://www.m3tech.blog/entry/git-submodule)
 - [Gitサブモジュールを扱う際のTips](https://zenn.dev/sakaki_web/articles/785d2da8aaf2fa)
-- [【Git】サブモジュール (submodule)が複数ある場合の便利コマンド。git submodule foreach #Git - Qiita](https://qiita.com/shizen-shin/items/1406e50a95d5e4f15d0e)
+- [【Git】サブモジュール (submodule)が複数ある場合の便利コマンド。git submodule foreach - Qiita](https://qiita.com/shizen-shin/items/1406e50a95d5e4f15d0e)

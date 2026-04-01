@@ -1,9 +1,10 @@
 ---
-cover: "./hello-01.jpg"
-title: "test | テスト記事"
+cover: ./hello-01.jpg
+title: テスト記事
 author: timdaik
-updatedAt: "1970-1-1"
-tag: ["ポエム"]
+updatedAt: 1970-1-1
+tag:
+  - ポエム
 ---
 # はじめに
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -26,8 +27,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 - [x] コードブロック
   - [x] シンタックスハイライト
   - [ ] コピーボタン
+  - [ ] ファイル名表示
+  - [ ] diff対応
 - [ ] カスタムコンポーネント？
 
+### その他機能
+- [x] 目次
 
 どこまで行けるかな？
 
@@ -91,11 +96,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 ### 画像、ソースコード
 
-![](./tim-bird.png)
+![](images/hello/tim-bird.png)
 
 メインアイコンのハクセキレイちゃん
 
-![text](./hello-01.jpg)
+![text](images/hello/banzai.jpg)
 
 これは去年くらいの写真。
 

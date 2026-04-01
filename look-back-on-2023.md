@@ -1,9 +1,11 @@
 ---
-cover: "./no-cover.png"
-title: "2023年を振り返って"
+cover: ./no-cover.png
+title: 2023年を振り返って
 author: timdaik
-updatedAt: "2023-12-31"
-tag: ["振り返り", "年の総括"]
+updatedAt: 2023-12-31
+tag:
+  - 振り返り
+  - 年の総括
 ---
 # 今年の活動
 2023年にどんな活動をしたのか時系列で思いだしてみる。振り返り方法としては過去のツイートやGoogle Photoを遡りまくりました。

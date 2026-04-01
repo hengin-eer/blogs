@@ -1,9 +1,10 @@
 ---
-cover: "./no-cover.png"
-title: "先輩エンジニアおすすめの開発ツールを教えてもらう企画に参加した"
+cover: ./no-cover.png
+title: 先輩エンジニアおすすめの開発ツールを教えてもらう企画に参加した
 author: timdaik
-updatedAt: "2024-03-31"
-tag: ["Tech"]
+updatedAt: 2024-03-31
+tag:
+  - Tech
 ---
 ## 目的
 - 自分の知らないエディタの機能・活用例を知りたい
@@ -20,7 +21,7 @@ IDE: 統合開発環境の略。知ってた。
 ### Eclipse
 言わずと知れたJava用のIDE。実験の授業でチョット触っただけ。
 
-### Xcode(儂は使えないよ😢)
+### Xcode
 Apple用のアプリケーション開発に使える。YoutubeでFlutterのチュートリアル動画を見ていて投稿者がMacユーザーの時によく見かける。
 Android StudioのAppleバージョン。エミュレーターが使えるのが魅力的ですね。
 絶賛WindowsユーザーなのでMacを買ったらSwift挑戦の時に使ってみましょかね

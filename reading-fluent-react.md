@@ -1,9 +1,10 @@
 ---
-cover: "./no-cover.png"
-title: "長旅を経て待望のFluent Reactが届いた"
+cover: ./no-cover.png
+title: 長旅を経て待望のFluent Reactが届いた
 author: timdaik
-updatedAt: "2026-02-16"
-tag: []
+updatedAt: 2026-02-16
+tag:
+  - 読書
 ---
 ## 行方不明のクリスマスプレゼント
 受験前から気になっていて、届くのを心待ちにしていた本がようやく手元に来た。

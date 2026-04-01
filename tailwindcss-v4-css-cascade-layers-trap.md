@@ -1,10 +1,10 @@
 ---
-cover: "./no-cover.png"
-title: "Tailwind CSS v4で「* { padding: 0; }」が全ユーティリティを破壊する理由 ── CSS Cascade Layersの落とし穴"
+cover: ./no-cover.png
+title: Tailwind CSS v4でハマったCSS Cascade Layersの落とし穴
 author: timdaik
-updatedAt: "2026-02-09"
-tag: ["Tech"]
-draft: true
+updatedAt: 2026-02-09
+tag:
+  - Tech
 ---
 
 ## TL;DR
