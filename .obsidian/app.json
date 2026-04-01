@@ -8,7 +8,7 @@
   "strictLineBreaks": true,
   "propertiesInDocument": "source",
   "foldHeading": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "showIndentGuide": true,
   "vimMode": true
 }

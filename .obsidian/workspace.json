@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "geekcamp-recomend-dev-env"
             }
+          },
+          {
+            "id": "9d1fd9b46b8b8418",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "リリースノート 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,21 +169,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "geekcamp-recomend-dev-env.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "geekcamp-recomend-dev-envのアウトライン"
+              "title": "アウトライン"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 343
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,7 +197,7 @@
       "random-note:ランダムノートを開く": false
     }
   },
-  "active": "934a4d4671dd30b7",
+  "active": "9d1fd9b46b8b8418",
   "lastOpenFiles": [
     "create-blog-with-gatsby-cover.png",
     "create-blog-with-gatsby.md",
