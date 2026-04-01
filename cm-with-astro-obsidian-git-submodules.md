@@ -3,7 +3,7 @@ cover: ./no-cover.png
 title: Git Submodulesを利用してAstroサイトの各コンテンツ管理をObsidianで行う
 author: timdaik
 updatedAt: 2026-04-01
-tag:
+tags:
   - Tech
 draft: true
 ---

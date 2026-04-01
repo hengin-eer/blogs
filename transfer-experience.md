@@ -3,7 +3,7 @@ cover: ./images/transfer-experience/aburasoba-noodle.png
 title: 2025年度 長岡技術科学大学 編入体験記
 author: timdaik
 updatedAt: 2025-12-31
-tag:
+tags:
   - 振り返り
   - NUT
 ---

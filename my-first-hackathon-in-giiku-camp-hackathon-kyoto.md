@@ -3,7 +3,7 @@ cover: ./my-first-hackathon-in-giiku-camp-hackathon-kyoto-cover.png
 title: はじめてのはっかそん - 技育CAMPハッカソンに参戦してきた！
 author: timdaik
 updatedAt: 2023-05-09
-tag:
+tags:
   - イベント
   - 振り返り
 ---

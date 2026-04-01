@@ -3,7 +3,7 @@ cover: ./no-cover.png
 title: 2026年の抱負
 author: timdaik
 updatedAt: 2026-01-01
-tag:
+tags:
   - 年の総括
   - 振り返り
 draft: true

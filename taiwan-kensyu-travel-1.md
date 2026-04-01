@@ -1,9 +1,10 @@
 ---
-cover: "./no-cover.png"
-title: "台湾研修旅行記その1"
+cover: ./no-cover.png
+title: 台湾研修旅行記その1
 author: timdaik
-updatedAt: "2025-11-07"
-tag: ["振り返り"]
+updatedAt: 2025-11-07
+tags:
+  - 振り返り
 draft: true
 ---
 ## はじめに

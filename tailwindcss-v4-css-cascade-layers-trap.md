@@ -3,7 +3,7 @@ cover: ./no-cover.png
 title: Tailwind CSS v4でハマったCSS Cascade Layersの落とし穴
 author: timdaik
 updatedAt: 2026-02-09
-tag:
+tags:
   - Tech
 ---
 

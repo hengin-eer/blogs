@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cm-with-astro-obsidian-git-submodules.md",
+                "file": "hello.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "cm-with-astro-obsidian-git-submodules"
+              "title": "hello"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ポエム  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cm-with-astro-obsidian-git-submodules.md",
+                "file": "hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "cm-with-astro-obsidian-git-submodulesへのバックリンク"
+              "title": "helloへのバックリンク"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cm-with-astro-obsidian-git-submodules.md",
+                "file": "hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "cm-with-astro-obsidian-git-submodulesからのアウトゴーイングリンク"
+              "title": "helloからのアウトゴーイングリンク"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cm-with-astro-obsidian-git-submodules.md",
+                "file": "hello.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "cm-with-astro-obsidian-git-submodulesのアウトライン"
+              "title": "helloのアウトライン"
             }
           }
         ],
@@ -186,8 +186,10 @@
       "random-note:ランダムノートを開く": false
     }
   },
-  "active": "c8c5a4c2616f94b6",
+  "active": "84e8b862c07a0216",
   "lastOpenFiles": [
+    "hacku-kosen-2025.md",
+    "cm-with-astro-obsidian-git-submodules.md",
     "hello.md",
     "images/hello/banzai.jpg",
     "images/hello",
@@ -215,10 +217,8 @@
     "my-first-hackathon-in-giiku-camp-hackathon-kyoto.md",
     "look-back-on-2025.md",
     "astro-v4-to-v5-change-points-in-content-collections.md",
-    "cm-with-astro-obsidian-git-submodules.md",
     "create-blog-with-gatsby.md",
     "geekcamp-recomend-dev-env.md",
-    "hacku-kosen-2025.md",
     "hello-world-2026.md",
     "look-back-on-2023.md"
   ]

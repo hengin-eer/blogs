@@ -3,9 +3,9 @@ cover: ./no-cover.png
 title: Astro v4からv5へのContent Collectionsアップデートのメモ
 author: timdaik
 updatedAt: 2026-04-01
-tag:
+tags:
   - Tech
-  - ポエム
+  - 駄文
 ---
 [Git Submodulesを利用してAstroサイトの各コンテンツ管理をObsidianで行う](./cm-with-astro-obsidian-git-submodules)ではこのブログにおける記事コンテンツの管理をObsidianとGit Submodulesを利用する方法にアップデートした内容をまとめた。
 

@@ -3,10 +3,10 @@ cover: ./unprecedented-rolling-pin-boom-cover.png
 title: 空前の麺棒ブーム
 author: timdaik
 updatedAt: 2023-07-02
-tag:
+tags:
   - 日常
   - お料理
-  - ポエム
+  - 駄文
 ---
 ## 空前の麺棒ブーム
 御昼下がりにturpanがパックカレーと怪しげな粉をもって部屋に侵入してきた。

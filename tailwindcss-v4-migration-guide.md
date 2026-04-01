@@ -3,7 +3,7 @@ cover: ./no-cover.png
 title: Tailwind CSS v4 移行ガイド：JS設定ファイルからCSS-first構成へ
 author: timdaik
 updatedAt: 2026-02-09
-tag:
+tags:
   - Tech
 ---
 
