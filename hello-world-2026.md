@@ -1,5 +1,4 @@
 ---
-cover: ./no-cover.png
 title: 2026年の抱負
 author: timdaik
 updatedAt: 2026-01-01

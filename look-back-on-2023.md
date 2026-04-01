@@ -1,5 +1,4 @@
 ---
-cover: ./no-cover.png
 title: 2023年を振り返って
 author: timdaik
 updatedAt: 2023-12-31

@@ -1,5 +1,4 @@
 ---
-cover: ./no-cover.png
 title: 2025年を振り返って
 author: timdaik
 updatedAt: 2025-12-31

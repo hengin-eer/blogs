@@ -1,5 +1,4 @@
 ---
-cover: ./no-cover.png
 title: 長旅を経て待望のFluent Reactが届いた
 author: timdaik
 updatedAt: 2026-02-16

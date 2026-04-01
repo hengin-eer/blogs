@@ -1,5 +1,4 @@
 ---
-cover: ./no-cover.png
 title: Astro v4からv5へのContent Collectionsアップデートのメモ
 author: timdaik
 updatedAt: 2026-04-01

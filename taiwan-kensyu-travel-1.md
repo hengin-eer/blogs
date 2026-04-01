@@ -1,5 +1,4 @@
 ---
-cover: ./no-cover.png
 title: 台湾研修旅行記その1
 author: timdaik
 updatedAt: 2025-11-07

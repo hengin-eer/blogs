@@ -1,5 +1,4 @@
 ---
-cover: ./no-cover.png
 title: Hack U Kosen 2025を振り返って
 author: timdaik
 updatedAt: 2025-12-21

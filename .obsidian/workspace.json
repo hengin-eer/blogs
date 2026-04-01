@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d88b59cb3309bf6c",
+        "id": "d0978654766366cd",
         "type": "tabs",
         "children": [
           {
-            "id": "c8c5a4c2616f94b6",
+            "id": "6e99f39501c9994d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hello-world-2026.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "hello-world-2026"
+              "title": "新規タブ"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hello",
+                "query": "[\"cover\": \"no-cover.png\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hello-world-2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "hello-world-2026へのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hello-world-2026.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "hello-world-2026からのアウトゴーイングリンク"
+              "title": "アウトゴーイングリンク"
             }
           },
           {
@@ -156,17 +150,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hello-world-2026.md",
+                "file": "no-cover.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "hello-world-2026のアウトライン"
+              "title": "no-coverのアウトライン"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -185,11 +179,21 @@
       "random-note:ランダムノートを開く": false
     }
   },
-  "active": "c8c5a4c2616f94b6",
+  "active": "934a4d4671dd30b7",
   "lastOpenFiles": [
-    "hello.md",
+    "taiwan-kensyu-travel-1.md",
+    "tailwindcss-v4-migration-guide.md",
+    "tailwindcss-v4-css-cascade-layers-trap.md",
+    "reading-fluent-react.md",
+    "present-heyagram-in-geekcaravan-osaka.md",
+    "look-back-on-2025.md",
+    "look-back-on-2023.md",
+    "hello-world-2026.md",
     "hacku-kosen-2025.md",
+    "geekcamp-recomend-dev-env.md",
     "cm-with-astro-obsidian-git-submodules.md",
+    "astro-v4-to-v5-change-points-in-content-collections.md",
+    "hello.md",
     "images/hello/banzai.jpg",
     "images/hello",
     "unprecedented-rolling-pin-boom.md",
@@ -205,20 +209,10 @@
     "images/unprecedented-rolling-pin-boom/1.png",
     "tutorial-browser-magnetic-sensor.md",
     "transfer-experience.md",
-    "taiwan-kensyu-travel-1.md",
-    "tailwindcss-v4-migration-guide.md",
     "simon-singh-the-code-book-1.md",
-    "tailwindcss-v4-css-cascade-layers-trap.md",
-    "reading-fluent-react.md",
     "research-nereistoxin-poison.md",
-    "present-heyagram-in-geekcaravan-osaka.md",
     "poem_20241020183753.md",
     "my-first-hackathon-in-giiku-camp-hackathon-kyoto.md",
-    "look-back-on-2025.md",
-    "astro-v4-to-v5-change-points-in-content-collections.md",
-    "create-blog-with-gatsby.md",
-    "geekcamp-recomend-dev-env.md",
-    "hello-world-2026.md",
-    "look-back-on-2023.md"
+    "create-blog-with-gatsby.md"
   ]
 }

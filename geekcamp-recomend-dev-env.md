@@ -1,5 +1,4 @@
 ---
-cover: ./no-cover.png
 title: 先輩エンジニアおすすめの開発ツールを教えてもらう企画に参加した
 author: timdaik
 updatedAt: 2024-03-31
