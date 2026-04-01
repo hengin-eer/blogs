@@ -11,5 +11,6 @@
   "showLineNumber": true,
   "showIndentGuide": true,
   "vimMode": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "/"
 }

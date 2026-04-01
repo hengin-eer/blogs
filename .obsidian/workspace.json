@@ -11,10 +11,26 @@
             "id": "6e99f39501c9994d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "image",
+              "state": {
+                "file": "my-first-hackathon-in-giiku-camp-hackathon-kyoto-cover.png"
+              },
+              "icon": "lucide-image",
+              "title": "my-first-hackathon-in-giiku-camp-hackathon-kyoto-cover"
+            }
+          },
+          {
+            "id": "2721363f2cd2f199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cm-with-astro-obsidian-git-submodules.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "cm-with-astro-obsidian-git-submodules"
             }
           }
         ]
@@ -90,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "my-first-hackathon-in-giiku-camp-hackathon-kyoto-cover.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "my-first-hackathon-in-giiku-camp-hackathon-kyoto-coverへのバックリンク"
             }
           },
           {
@@ -108,11 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "my-first-hackathon-in-giiku-camp-hackathon-kyoto-cover.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "my-first-hackathon-in-giiku-camp-hackathon-kyoto-coverからのアウトゴーイングリンク"
             }
           },
           {
@@ -150,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "no-cover.png",
+                "file": "my-first-hackathon-in-giiku-camp-hackathon-kyoto-cover.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "no-coverのアウトライン"
+              "title": "my-first-hackathon-in-giiku-camp-hackathon-kyoto-coverのアウトライン"
             }
           }
         ],
@@ -179,8 +197,25 @@
       "random-note:ランダムノートを開く": false
     }
   },
-  "active": "934a4d4671dd30b7",
+  "active": "6e99f39501c9994d",
   "lastOpenFiles": [
+    "poem_20241020183753.md",
+    "poem_20241020183753-cover.png",
+    "Pasted image 20260401202506.png",
+    "my-first-hackathon-in-giiku-camp-hackathon-kyoto-cover.png",
+    "Pasted image 20260401202605.png",
+    "gradation-image-generator-mesh-gradient-is-awesome.md",
+    "create-blog-with-gatsby.md",
+    "cm-with-astro-obsidian-git-submodules.md",
+    "astro-v4-to-v5-change-points-in-content-collections.md",
+    "images/gradation-image-generator-mesh-gradient-is-awesome/cover.png",
+    "images/gradation-image-generator-mesh-gradient-is-awesome/20260401083126.png",
+    "images/gradation-image-generator-mesh-gradient-is-awesome/20260401082949.png",
+    "images/gradation-image-generator-mesh-gradient-is-awesome/20260401082840.png",
+    "images/gradation-image-generator-mesh-gradient-is-awesome/20260401082825.png",
+    "images/gradation-image-generator-mesh-gradient-is-awesome/.png",
+    "images/{filename}",
+    "images/gradation-image-generator-mesh-gradient-is-awesome",
     "taiwan-kensyu-travel-1.md",
     "tailwindcss-v4-migration-guide.md",
     "tailwindcss-v4-css-cascade-layers-trap.md",
@@ -191,28 +226,14 @@
     "hello-world-2026.md",
     "hacku-kosen-2025.md",
     "geekcamp-recomend-dev-env.md",
-    "cm-with-astro-obsidian-git-submodules.md",
-    "astro-v4-to-v5-change-points-in-content-collections.md",
     "hello.md",
-    "images/hello/banzai.jpg",
     "images/hello",
     "unprecedented-rolling-pin-boom.md",
-    "images/hello/tim-bird.png",
-    "images/unprecedented-rolling-pin-boom/4.png",
-    "images/unprecedented-rolling-pin-boom/8.png",
-    "images/unprecedented-rolling-pin-boom/7.png",
-    "images/unprecedented-rolling-pin-boom/6.png",
-    "images/unprecedented-rolling-pin-boom/5.png",
-    "images/unprecedented-rolling-pin-boom/3.png",
-    "images/unprecedented-rolling-pin-boom/2.png",
     "images/unprecedented-rolling-pin-boom",
-    "images/unprecedented-rolling-pin-boom/1.png",
     "tutorial-browser-magnetic-sensor.md",
     "transfer-experience.md",
     "simon-singh-the-code-book-1.md",
     "research-nereistoxin-poison.md",
-    "poem_20241020183753.md",
-    "my-first-hackathon-in-giiku-camp-hackathon-kyoto.md",
-    "create-blog-with-gatsby.md"
+    "my-first-hackathon-in-giiku-camp-hackathon-kyoto.md"
   ]
 }
