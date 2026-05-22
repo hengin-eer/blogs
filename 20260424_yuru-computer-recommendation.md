@@ -84,6 +84,15 @@ tags:
 
 基本はスラスラ読んでいけばいいが、途中に出てくる換字式暗号は実際に試してみると暗号の威力を肌で感じられて面白いだろう。
 
+## おまけ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JvsSt_ksKiw?si=Tc01PEYRSb35gKQW&amp;start=1282" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Lispの勉強をしたら『葬送のフリーレン』と同じカタルシスが待っていた。【Lisp2】#119 - YouTube](https://www.youtube.com/watch?v=JvsSt_ksKiw&t=1327s)
+
+↓ 人は伏線回収をすると「ﾝ゛ｷ゛ﾓ゛ﾁ゛ｨ゛ｨ゛ｨ゛!!」ってなっちゃう。
+
+![](images/20260424_yuru-computer-recommendation/20260523022430.png)
+
 ## まとめ
 いずれも発明の歴史系を扱ったが、3つとも歴史の授業並みにドラマチックな展開が隠されているのでめちゃくちゃおもろい。
 
