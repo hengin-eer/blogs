@@ -1,10 +1,9 @@
 ---
 title: Git Submodulesを利用してAstroサイトの各コンテンツ管理をObsidianで行う
 author: timdaik
-updatedAt: 2026-04-01
+updatedAt: 2026-05-29
 tags:
   - Tech
-draft: true
 ---
 ## いかにコンテンツ管理のハードルを下げるか
 個人サイトのコンテンツ管理で最も大切なのは、**更新するためのハードルを下げることが一番大切だと思っている**。
@@ -87,14 +86,65 @@ WSLgという機能を有効にすることでこの問題は解決する。
 ### AstroのContent Collections
 Astroでは[Content Collections](https://docs.astro.build/ja/guides/content-collections/)というコンテンツ管理のための仕組みが用意されている。
 
+`content.config.ts`にて以下のように設定してやればいい。
+
+`loader`に`glob()`を使うことで任意のパスとファイルの種類を指定してコレクションの作成ができる。
+
+```typescript
+import { defineCollection, z } from "astro:content";
+import { glob } from "astro/loaders";
+
+const blogs = defineCollection({
+	loader: glob({ pattern: "**/*.md", base: "./src/blogs" }),
+	schema: ({ image }) =>
+		z.object({
+		// 省略
+		}),
+});
+
+const works = defineCollection({
+	loader: glob({ pattern: "**/*.md", base: "./src/works" }),
+	schema: ({ image }) =>
+		z.object({
+		// 省略
+		}),
+});
+
+export const collections = {
+	blogs,
+	works,
+};
+```
+
 ### Git Submodulesの利用
-- Git Submodulesの利用方法
-- ローカルのディレクトリ構成
+とりあえず以下のコマンドでローカルのコンテンツ更新ができれば困ることは無い。
+```bash
+git submodule update --remote
+git submodule update --remote src/blogs # 特定のモジュールのみを更新することも可能
+```
 
 ### GitHub Actionsの設定
+なんと`with`以下に`submodules: true`を設定するだけで良い。
+
 ```yaml
-Actionsの設定ファイルを張る
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout your repository using git
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+# 省略
 ```
+
+GitHub Actionsに限らず、CI/CDで自動化する際には以下のコマンドを実行しても同じである。
+```bash
+git submodule update --init --recursive
+```
+
+`--recursive`フラグはサブモジュールを再帰的に更新していくためのものらしい。
+なんでもサブモジュールの中にサブモジュールが含まれているケースもあるみたい。
 
 ## 参考
 参考記事を書かれた著者の皆様に感謝申し上げます。
@@ -108,3 +158,4 @@ Actionsの設定ファイルを張る
 - [git submodule はトモダチ！怖くないよ！ （チートシート付き） - エムスリーテックブログ](https://www.m3tech.blog/entry/git-submodule)
 - [Gitサブモジュールを扱う際のTips](https://zenn.dev/sakaki_web/articles/785d2da8aaf2fa)
 - [【Git】サブモジュール (submodule)が複数ある場合の便利コマンド。git submodule foreach - Qiita](https://qiita.com/shizen-shin/items/1406e50a95d5e4f15d0e)
+- [自分が必要とする最低限の git submodule の知識 - Qiita](https://qiita.com/ma2saka/items/4bd00ef6f8c240847807)
