@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260424_yuru-computer-recommendation.md",
-                "mode": "preview",
+                "file": "cm-with-astro-obsidian-git-submodules.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "20260424_yuru-computer-recommendation"
+              "title": "cm-with-astro-obsidian-git-submodules"
             }
           }
         ],
@@ -216,16 +216,16 @@
   },
   "active": "bacef87b801d6a99",
   "lastOpenFiles": [
+    "astro-v4-to-v5-change-points-in-content-collections.md",
+    "cm-with-astro-obsidian-git-submodules.md",
+    "20260424_yuru-computer-recommendation.md",
     "images/20260424_yuru-computer-recommendation/20260523022430.png",
     "gradation-image-generator-mesh-gradient-is-awesome.md",
-    "20260424_yuru-computer-recommendation.md",
     "create-blog-with-gatsby.md",
     "images/gradation-image-generator-mesh-gradient-is-awesome/20260401082825.png",
     "images/gradation-image-generator-mesh-gradient-is-awesome/20260401082840.png",
     "images/20260424_yuru-computer-recommendation/cover.png",
     "create-blog-with-gatsby-cover.png",
-    "cm-with-astro-obsidian-git-submodules.md",
-    "astro-v4-to-v5-change-points-in-content-collections.md",
     "simon-singh-the-code-book-1.md",
     "images/20260424_yuru-computer-recommendation",
     "images/PXL_20250520_032047352.jpg",
@@ -236,7 +236,6 @@
     "images/PXL_20250520_032047352.jpg.~tmp",
     "images/PXL_20250520_032036872.jpg",
     "hacku-kosen-2025.md",
-    "my-first-hackathon-in-giiku-camp-hackathon-kyoto-cover.png",
     "poem_20241020183753.md",
     "images/{filename}",
     "images/gradation-image-generator-mesh-gradient-is-awesome",
