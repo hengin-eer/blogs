@@ -6,7 +6,7 @@ tags:
   - Tech
   - 駄文
 ---
-[Git Submodulesを利用してAstroサイトの各コンテンツ管理をObsidianで行う](./cm-with-astro-obsidian-git-submodules)ではこのブログにおける記事コンテンツの管理をObsidianとGit Submodulesを利用する方法にアップデートした内容をまとめた。
+[Git Submodulesを利用してAstroサイトの各コンテンツ管理をObsidianで行う](/cm-with-astro-obsidian-git-submodules)ではこのブログにおける記事コンテンツの管理をObsidianとGit Submodulesを利用する方法にアップデートした内容をまとめた。
 
 ところでGit Submodulesで管理するために、元々`src/content/blog`, `src/content/work`といったディレクトリ構造だったのを、`src/blogs`, `src/works`というように`src`直下に配置したくなった。
 > というより、それぞれをリポジトリとして管理するにあたって、GitHub上で良い感じのリポジトリ名にしたいな～と考えていたところ、「今のディレクトリ構造だとページ表示のパスが`/content`以下のディレクトリ名にそのまま使われてしまい不格好になってしまう！！」という勘違いを起こした。
